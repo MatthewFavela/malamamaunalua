@@ -1,0 +1,106 @@
+#L {
+    background-image: url("./assets/ez.jpg");
+    background-size: cover;
+    align-self: auto;
+}
+
+#button-start {
+    color:black;
+    font-size: 16px 40px;
+    margin: 0 0.5em;
+    text-decoration: none;
+    padding: 14px 30px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   
+  
+  }
+  
+ #button-stop {
+   color: black;
+   font-size: 16px 40px;
+   margin: 0 0.05em;
+   text-decoration: none;
+   padding: 14px 30px;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      top: 91px;
+      left: 420px;
+      right: -420px;
+      bottom: -191px;
+  
+ }
+ 
+ #button-reset {
+  color: black;
+  font-size: 16px 36px;
+  margin: 0 0.05em;
+  text-decoration: none;
+  padding: 14px 30px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ 
+ }
+
+ #submit {
+    color: black;
+    font-size: 16px 36px;
+    margin: 0 0.05em;
+    text-decoration: none;
+    padding: 14px 30px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   
+   }
+ 
+ #seconds {
+  font-size: 50px;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+ }
+ 
+ #tens {
+  font-size: 50px;
+  text-align: center;
+  margin: auto;
+  width: 50%;
+  
+ }
+ 
+ .wrapper {
+   font-size: 16px;
+  padding: 14px 10px; 
+   position: absolute;
+    top: 580px;
+    text-align: center;
+  color: white;
+ 
+ }
+ 
+ p {
+  font-size: 40px;
+ }
+ 
+ h1 {
+  font-family: 'Gaegu';
+  font-size: 35px;
+ }
+
+ #clickme {
+  font-size: 16px 36px;
+  margin: 0 0.05em;
+  text-decoration: none;
+  padding: 14px 30px;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ position: absolute;
+ top: 900px;
+ right: 200px;
+ }
+
+ #myCanvas {
+position: absolute;
+top: 550px;
+right: 50px;
+ }
+ #totalbags{
+   position: absolute;
+   left: 1400px;
+
+ }
